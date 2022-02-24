@@ -4,7 +4,7 @@
 import turtle
 import random
 import time
-asdfsdf
+
 # Setting up a nice screen for the game
 
 screen = turtle.Screen()
